@@ -1,0 +1,7 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/README.me
+/Token: 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
